@@ -1,8 +1,10 @@
 # Folder Size
 
-A simple tool that tells you how big a folder is — every file inside it, no matter how deeply buried. It does what right-click > Get Info does in Finder, except it doesn't freeze on huge sample libraries.
+A simple tool that tells you the size of a folder and every file inside it, no matter how deeply buried. It does what right-click > Get Info does in Finder, except it doesn't freeze on huge sample libraries.
 
 It only reads listings and sizes. It never changes, moves, or deletes anything on your drives.
+
+Simple tool designed as a time saver.
 
 ## Quick start
 
