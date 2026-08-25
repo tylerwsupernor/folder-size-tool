@@ -12,7 +12,7 @@ Simple tool designed as a time saver.
 2. Type `python3` followed by a space (don't press Enter yet).
 3. Drag `folder_size.py` from Finder into the Terminal window.
 4. Type another space, then drag in the folder you want measured.
-5. Press Enter and watch the live counter.
+5. Press Enter and watch it count away.
 
 Full step-by-step instructions, including what to do if something goes wrong, are in [HOW_TO_USE.md](HOW_TO_USE.md).
 
@@ -30,13 +30,13 @@ Speed:       7,699 files per second
 ## Good to know
 
 - **Several folders at once:** drag in more than one before pressing Enter. Each gets its own report plus a combined total at the end.
-- **Stop early:** press Control + C. It prints a goodbye note and stops. Nothing was changed.
-- **Skipped:** means a few spots your account doesn't have permission to read, which is normal on Macs and harmless.
-- Sizes match Finder and Get Info (GB = 1,000 MB), so numbers line up with what you see there.
+- **Stop early:** press Control + C. It prints a goodbye note and stops.
+- **Skipped:** means that your account doesn't have permission to read something, which is normal on Macs.
+- Sizes match Finder and Get Info (TB = 1,000 MB), so numbers line up with the that.
 
 ## Requirements
 
-Any Mac. Python 3 is already included, so there is nothing to install. The very first time you run anything with `python3`, macOS may ask to install "Command Line Developer Tools" — click Install once and it never asks again.
+Any Mac. Python is already included, so there is nothing to install. The very first time you run anything with `python3`, macOS may ask to install "Command Line Developer Tools" — click Install once and it never asks again.
 
 ## License
 
