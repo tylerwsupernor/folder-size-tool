@@ -1,4 +1,4 @@
-# Folder Size
+# Folder Size Tool
 
 A simple tool that tells you the size of a folder and how many files are inside it. It does what right-click > Get Info does in Finder, except it doesn't freeze on huge folders.
 
